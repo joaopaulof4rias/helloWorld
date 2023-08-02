@@ -1,0 +1,7 @@
+{
+  "name": "helloWorldId",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
